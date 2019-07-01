@@ -1,6 +1,9 @@
+# This file handles parsing through the excel file and retrieving all of the usernames from that file
+
 import xlrd
 
-book = xlrd.open_workbook('usernames.xlsx')
+# for those using a mac without excel the file extensions should be xlsx instead of xls
+book = xlrd.open_workbook('FILENAME.xls')
 
 usernames = []
 
