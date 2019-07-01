@@ -4,10 +4,10 @@ import json
 #importing the docparse file so that usernames can be retrieved
 import docparse
 
-username = 'abshir24'
+username = 'INSERT USERNAME'
 
 # from https://github.com/settings/tokens
-token = '240d70288a1ecdc35d875307725a2d6d5999e9b0'
+token = 'INSERT TOKEN'
 
 
 # # create a re-usable session object with the user credits in-built
