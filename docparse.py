@@ -5,7 +5,7 @@ import xlrd
 # for those using a mac without excel the file extensions should be xlsx instead of xls
 # Download the file from teams and place it in this directory
 # MAKE SURE THE FILE IS IN THIS DIRECTORY!
-filename = xlrd.open_workbook('FILENAME.xlsx')
+filename = xlrd.open_workbook('usernames.xlsx')
 
 usernames = []
 
