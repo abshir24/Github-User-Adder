@@ -29,7 +29,6 @@ NOTE: when generating a new token select the 'user' option when asked to "select
 NOTE: This program might take at least 2 minutes to run, so feel free to open up a new tab in your terminal if you need to 
 use your command prompt.
 
-NOTE: If the message {"message":"Not Found","documentation_url":"https://developer.github.com/v3/users/followers/#follow-a-user"}
 is displayed ignore it. This is just indicating that one of the empty slots parsed from the excel file does not exist.
 
 Feel free to reach out to me if you all have any question.
