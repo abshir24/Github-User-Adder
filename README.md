@@ -4,14 +4,15 @@ New Technologists Team Microsoft)
 
 NOTE: Python's pip package-management system needs to be installed on your laptop in order to for the script to work.
 Here is a link that will you help you with that --> https://www.makeuseof.com/tag/install-pip-for-python/
-
-
+or type in the command "sudo easy_install pip" into your command prompt
 
 1. Clone the repository and save it anywhere that is accessible to you
 
 2. Use your terminal to navigate to the project directory
 
-3. If pip is installed then pip install the following libraries from your command prompt: requests,time,xlrd
+3. If pip is installed then pip install the following libraries from your command prompt: requests,xlrd
+
+NOTE:If this is not working try using the sudo key word before the pip install statement. For example: "sudo pip install requests"
 
 4. Download excel file from teams and save it in the repository that was just cloned
 
