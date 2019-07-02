@@ -2,6 +2,11 @@
 This program takes in a list of github users from an excel file and auto adds them from the user's account (Specifically for
 New Technologists Team Microsoft)
 
+NOTE: Python's pip package-management system needs to be installed on your laptop in order to for the script to work.
+Here is a link that will you help you with that --> https://www.makeuseof.com/tag/install-pip-for-python/
+
+1. If pip is installed then pip install the following libraries from your command prompt: requests,time,xlrd
+
 1. Clone the repository and save it anywhere that is accessible to you
 
 2. Download excel file from teams and save it in the repository that was just cloned
