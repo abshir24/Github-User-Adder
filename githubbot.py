@@ -9,7 +9,7 @@ import time
 username = 'USERNAME'
 
 # Add API token from https://github.com/settings/tokens
-token = 'API-TOKEN'
+token = 'API TOKEN'
 
 
 # # create a re-usable session object with the user credits in-built
@@ -26,7 +26,7 @@ users = docparse.usernames
 for user in users:
     # this line allows us to follow the respected amount of users without throwing any red flags to github
     # idicating that there is something attacking their website
-    time.sleep(3)
+    time.sleep(2)
     #this url will be used to make the PUT request that will follow the user from your account
     follow_url = 'https://api.github.com/user/following/'+user
     # this is the function that makes the PUT request to follow the user
