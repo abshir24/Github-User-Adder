@@ -21,6 +21,7 @@ NOTE:If this is not working try using the sudo key word before the pip install s
 6. Replace the user name in the githubbot.py file with your github username
 
 7. Replace the Api Token variable with the token that you recieve from https://github.com/settings/tokens 
+
 NOTE: when generating a new token select the 'user' option when asked to "select scopes".
 
 8. Type the command "python githubbot.py" into your command prompt.
