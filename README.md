@@ -21,11 +21,12 @@ NOTE:If this is not working try using the sudo key word before the pip install s
 6. Replace the user name in the githubbot.py file with your github username
 
 7. Replace the Api Token variable with the token that you recieve from https://github.com/settings/tokens 
+
 NOTE: when generating a new token select the 'user' option when asked to "select scopes".
 
 8. Type the command "python githubbot.py" into your command prompt.
 
-NOTE: This program might take at least 2-4 minutes to run, so feel free to open up a new tab in your terminal if you need to 
+NOTE: This program might take at least 2 minutes to run, so feel free to open up a new tab in your terminal if you need to 
 use your command prompt.
 
 NOTE: If the message {"message":"Not Found","documentation_url":"https://developer.github.com/v3/users/followers/#follow-a-user"}
