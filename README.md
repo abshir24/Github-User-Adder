@@ -10,7 +10,7 @@ or type in the command "sudo easy_install pip" into your command prompt
 
 2. Use your terminal to navigate to the project directory
 
-3. If pip is installed then pip install the following libraries from your command prompt: requests,xlrd
+3. If pip is installed then pip install the following libraries from your command prompt: requests,xlrd,colorama, termcolor, pyfiglet
 
 NOTE:If this is not working try using the sudo key word before the pip install statement. For example: "sudo pip install requests"
 
