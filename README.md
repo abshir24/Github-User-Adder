@@ -25,7 +25,7 @@ NOTE: when generating a new token select the 'user' option when asked to "select
 
 8. Type the command "python githubbot.py" into your command prompt.
 
-NOTE: This program might take at least 5-7 minutes to run, so feel free to open up a new tab in your terminal if you need to 
+NOTE: This program might take at least 2-4 minutes to run, so feel free to open up a new tab in your terminal if you need to 
 use your command prompt.
 
 NOTE: If the message {"message":"Not Found","documentation_url":"https://developer.github.com/v3/users/followers/#follow-a-user"}
