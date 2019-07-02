@@ -16,10 +16,10 @@ from pyfiglet import figlet_format  # creates the ASCII art
 
 
 # ADD GITHUB USERNAME
-username = 'JachiOnuoha'
+username = 'USERNAME'
 
 # Add API token from https://github.com/settings/tokens
-token = '56261ff1594ca7f6f7a8a6a29fd4f172b1ce71a5'
+token = 'API ACCESS TOKEN'
 
 
 # # create a re-usable session object with the user credits in-built
